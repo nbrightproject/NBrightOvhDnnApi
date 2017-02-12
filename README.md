@@ -9,5 +9,5 @@ It's alter so that it compiles and works in DNN8
 
 To use copy dlls into the DNN bin folder
 
-NBrightDNN.dll
+NBright.ovhdnn.dll
 INIFileparser.dll
